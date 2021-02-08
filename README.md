@@ -1,5 +1,8 @@
 # myLearningProjects
 
+## Social Network
+Making social network with React (in process)
+
 ## Projects from RsSchool:
 ### Adaptive layout from figma design:
 https://dmleshchev.github.io/myLearningProjects/shelter-main/pages/main/index.html
