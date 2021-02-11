@@ -1,14 +1,10 @@
-# myLearningProjects
 
-### Social Network
-Making social network with React (in process)
-
-### Adaptive layout from figma design:
+### Адаптивная верстка с figma макета
 https://dmleshchev.github.io/myLearningProjects/shelter-main/pages/main/index.html
 
-### Calculator (javascript):
+### Калькулятор на javascript:
 https://dmleshchev.github.io/myLearningProjects/calculator/index.html
-(basic code not mine). I made:  
+Базовый код не мой, я добавил: 
 Дополнительные математические операции:  
 Добавил две мат. операции: извлечение квадратного корня и возведение в степень.   
 Действия с отрицательными числами:  
